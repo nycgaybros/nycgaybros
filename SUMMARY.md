@@ -1,6 +1,6 @@
 # Table of contents
 
-* [NYCGAYBROS SERVER DOCS](README.md)
+* [NYCGAYBROS ADMIN DOCS](README.md)
 
 ## NYC
 

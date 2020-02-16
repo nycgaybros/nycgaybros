@@ -2,7 +2,7 @@
 description: Hello
 ---
 
-# NYCGAYBROS SERVER DOCS
+# NYCGAYBROS ADMIN DOCS
 
 ## Getting Super Powers
 
