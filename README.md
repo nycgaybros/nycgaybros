@@ -1,12 +1,30 @@
+---
+description: Hello
+---
+
 # NYCGAYBROS SERVER DOCS
+
+## Getting Super Powers
 
 You can use the [editor on GitHub](https://github.com/nycgaybros/nycgaybros/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Becoming a super hero is a fairly straight forward process:
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+```
+$ give me super-powers
+```
 
 ## Markdown
 
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Once you're strong enough, save the world:
 
 ```text
 Syntax highlighted code block
@@ -26,7 +44,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+{% endcode %}
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
 
 ## Jekyll Themes
 

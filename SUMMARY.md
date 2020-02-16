@@ -1,7 +1,11 @@
 # Table of contents
 
 * [NYCGAYBROS SERVER DOCS](README.md)
+
+## NYC
+
 * [BOTs](bots/README.md)
+  * [Untitled](bots/untitled.md)
   * [dyno bot manager](https://dyno.gg/manage/645399322682327040)
   * [Xenon Bot](bots/xenon-bot.md)
   * [Magic Bots](bots/magic-bots.md)
