@@ -18,9 +18,9 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. See below
 
-Once you're strong enough, save the world:
+[MARKDOWN](https://docs.discord.club/embedg/reference/markdown)
 
 ```text
 Syntax highlighted code block
