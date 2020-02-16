@@ -14,7 +14,7 @@ you can only create backups of your channels, roles, permissions \(messages are 
 x!backup create [chatlog]
 ```
 
-![BOT RESPONSE](../.gitbook/assets/image.png)
+![BOT RESPONSE](.gitbook/assets/image.png)
 
 If needed, you can now use the below code to recover the roles and channels
 
