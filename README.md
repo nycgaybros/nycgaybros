@@ -1,21 +1,15 @@
 # NYCGAYBROS ADMIN DOCS
 
-## Getting Super Powers
+## Super Powers come with Super Responsibilities
 
-You can use the [editor on GitHub](https://github.com/nycgaybros/nycgaybros/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+These notes should help someone manage the server if i get hit by a bus or the server gets crushed under something.
 
-Becoming a super hero is a fairly straight forward process:
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-```
-$ give me super-powers
-```
+To operate most of these controls you would need either admin controls or higher.
 
 ## Markdown
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ This below is your best friend.... keep it safe.
 {% endhint %}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. See below
