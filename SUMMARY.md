@@ -1,6 +1,8 @@
 # Table of contents
 
 * [NYCGAYBROS ADMIN DOCS](README.md)
+* [FAQ](faq.md)
+* [INTRODUCTION](introduction.md)
 
 ## NYC
 

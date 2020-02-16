@@ -1,7 +1,3 @@
----
-description: Hello
----
-
 # NYCGAYBROS ADMIN DOCS
 
 ## Getting Super Powers
