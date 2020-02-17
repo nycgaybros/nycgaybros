@@ -11,7 +11,9 @@
 * [BOTs](bots.md)
 * [dyno bot manager](https://dyno.gg/manage/645399322682327040)
 * [Xenon Bot](xenon-bot.md)
-* [Magic Bots](magic-bots.md)
+* [Magic Bots](magic-bots/README.md)
+  * [Rules embed](magic-bots/rules-embed.md)
+  * [Untitled](magic-bots/untitled.md)
 
 ## NYC
 
