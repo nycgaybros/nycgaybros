@@ -8,8 +8,8 @@
 
 ## Channels and roles
 
-* [channels](channels-and-roles/channels.md)
 * [Roles](channels-and-roles/roles.md)
+* [channels](channels-and-roles/channels.md)
 
 ## Bots and Apps
 
