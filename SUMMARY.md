@@ -2,18 +2,14 @@
 
 * [NYCGAYBROS ADMIN DOCS](README.md)
 * [Rules](faq/README.md)
+  * [Paedophilia](faq/paedophilia.md)
   * [Rules embed](faq/rules-embed.md)
-* [Paedophilia](paedophilia.md)
 * [New Members](introduction.md)
 
 ## Channels and roles
 
 * [channels](channels-and-roles/channels.md)
 * [Roles](channels-and-roles/roles.md)
-
-## NYC
-
-* [Untitled](nyc/untitled.md)
 
 ## Bots and Apps
 
