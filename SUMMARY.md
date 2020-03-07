@@ -1,6 +1,6 @@
 # Table of contents
 
-* [NYCGAYBROS ADMIN DOCS](README.md)
+* [introduction](README.md)
 * [Rules](faq/README.md)
   * [Paedophilia](faq/paedophilia.md)
   * [Rules embed](faq/rules-embed.md)

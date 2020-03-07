@@ -1,4 +1,4 @@
-# NYCGAYBROS ADMIN DOCS
+# introduction
 
 ## Super Powers come with Super Responsibilities
 
