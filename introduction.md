@@ -18,16 +18,13 @@ description: server docs aim to provide a brief write up on how the NYCGB server
 
 it parses the users introduction and identifies the quality of the post. Salutations, length of text etc. If conditions are met, the member role is granted. the current delay is 60 mins.
 
+![](.gitbook/assets/image%20%282%29.png)
+
 ### NSFW Sections are on opt in.  
 
 * NO NSFW / NSFW Roles sit above Member/Verified roles. They allow for a user based opt in post confirming if they are above 18 or not. 
 
 
 
-## 
-
-### 
-
-* 
 
 
