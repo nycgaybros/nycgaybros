@@ -2,9 +2,7 @@
 
 ## Super Powers come with Super Responsibilities
 
-These notes should help someone manage the server if i get hit by a bus or the server gets crushed under something.
-
-To operate most of these controls you would need either admin controls or higher.
+These notes should help someone manage the server if i get hit by a bus or the server gets crushed under something. To operate most of these controls you would need either admin/mod controls or higher.
 
 ## Markdown
 
@@ -50,6 +48,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nycgaybros/nycgaybros/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ## Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 

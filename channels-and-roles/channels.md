@@ -1,4 +1,10 @@
+---
+description: channel list is stale. check the server for updated Channels.
+---
+
 # channels
+
+
 
 ```text
 https://discordapp.com/channels/645399322682327040/668337551924527125/678508340724105226

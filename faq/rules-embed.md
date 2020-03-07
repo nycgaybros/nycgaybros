@@ -1,8 +1,22 @@
+---
+description: this is the embed applied on the rules page.
+---
+
 # Rules embed
 
-## Welcome Message
+## Magic Bot - Embed Generator link
 
-this needs to be posted on [https://discord.club/embedg/](https://discord.club/embedg/)
+~~~~[**Embeds**](https://discord.club/embedg/) **help in making the discord text more structured and let you add a lot of info in one message.**
+
+{% hint style="info" %}
+ the embed functionality requires a web hook \(more on web hooks [here](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks)\)
+
+You can either generate a new web hook or use the existing one on the server settings -&gt; Web hooks section
+{% endhint %}
+
+The documentation on the embed bot is [here ](https://docs.discord.club/embedg/reference/field-reference).. Please note the mentions section as it can be confusing.Welcome Message
+
+the code below needs to be posted on [https://discord.club/embedg/](https://discord.club/embedg/)
 
 ```
 {
@@ -17,7 +31,7 @@ this needs to be posted on [https://discord.club/embedg/](https://discord.club/e
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world:
+Once you're strong enough, save the world with the next message.:
 
 {% code title="hello.sh" %}
 ```bash

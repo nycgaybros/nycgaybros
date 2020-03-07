@@ -2,7 +2,7 @@
 description: This Page shows the links to the bot sites that currently admin the server
 ---
 
-# BOTs
+# Dyno Bot \(Shaw\)
 
 ## Managing Dyno
 

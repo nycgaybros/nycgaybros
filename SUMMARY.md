@@ -1,21 +1,26 @@
 # Table of contents
 
 * [NYCGAYBROS ADMIN DOCS](README.md)
-* [FAQ](faq.md)
-* [INTRODUCTION](introduction.md)
+* [Rules](faq/README.md)
+  * [Rules embed](faq/rules-embed.md)
+* [Paedophilia](paedophilia.md)
+* [New Members](introduction.md)
 
 ## Channels and roles
 
 * [channels](channels-and-roles/channels.md)
 * [Roles](channels-and-roles/roles.md)
-* [BOTs](bots.md)
-* [dyno bot manager](https://dyno.gg/manage/645399322682327040)
-* [Xenon Bot](xenon-bot.md)
-* [Magic Bots](magic-bots/README.md)
-  * [Rules embed](magic-bots/rules-embed.md)
-  * [Untitled](magic-bots/untitled.md)
 
 ## NYC
 
 * [Untitled](nyc/untitled.md)
+
+## Bots and Apps
+
+* [Dyno Bot \(Shaw\)](bots-and-apps/bots/README.md)
+  * [dyno bot manager](https://dyno.gg/manage/645399322682327040)
+* [Xenon Bot](bots-and-apps/xenon-bot.md)
+* [Magic Bots](bots-and-apps/magic-bots/README.md)
+  * [Untitled](bots-and-apps/magic-bots/untitled.md)
+* [YAGPDB](bots-and-apps/yagpdb.md)
 
