@@ -38,3 +38,7 @@ Admin Roles carry an overriding responsibility on the server. they can reverse /
 
 **if Admins cannot continue in their roles for any reason,** they can abandon their role **with a 1 week notice.** They can be given the "friends of Bros" novelty role to recognize their past contribution
 
+
+
+
+
